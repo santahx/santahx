@@ -16,7 +16,7 @@
 
 
 ## Ich suche nach
-- 💞️ Ich freue mich auf die Zusammenarbeit an Mod Projekte, Spiele Projekten, Flutter Apps und auch immer gerne bei TypeScript Projekten.
+- 💞️ Ich freue mich auf die Zusammenarbeit an Mod Projekten, Spiele Projekten, Flutter Apps und auch immer gerne bei TypeScript Projekten.
 - 🤝 Gerne unterstütze ich andere Lernende auf ihrem Weg in die Tech-Welt.
 - Gerne bin ich immer auch bereit für neues Wissen.
 
